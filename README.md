@@ -16,7 +16,7 @@
 - ### <b> Application Apk On Google Play </b><br>
     https://play.google.com/store/apps/details?id=com.nota.notes_app
     <hr>
-- ### <b> Project WebSite Link </b> <br>
+- ### <b> App WebSite Link </b> <br>
     https://magdyebrahim24.github.io/Nota/
     <hr><br>
 
