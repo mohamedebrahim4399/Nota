@@ -40,14 +40,6 @@
 
 <br><hr><br>
 
-## Project Framework Repositories 
- - <b>UI / UX</b> <br> https://github.com/mohamedebrahim4399/api_documention
- - <b>Mobile Application </b> <br> https://github.com/magdyebrahim24/the_disease_fighter
-- <b>Machine Learning</b> <br> https://github.com/alaahendam/AI-project
-- <b>WebSite</b> <br> https://github.com/Mariam-wael22/code.git
-
-<br><hr><br>
-
 <img src="Images/logo.png" alt="image 2" width="100" height="100"><br><br>
 <img src="Images/1.png" alt="image 2" width="180" height="400">
 <img src="Images/2.png" alt="image 2" width="180" height="400">
